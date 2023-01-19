@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+dnspython
+pythonDNS
+whois
+pytz
+dnslib
+python-whois
